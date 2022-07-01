@@ -1,0 +1,9 @@
+[submodule "shape_tree/lib/events"]
+	path = shape_tree/lib/events
+	url = https://github.com/jamesvsnowden/bl_addon_events.git
+[submodule "shape_tree/lib/asks"]
+	path = shape_tree/lib/asks
+	url = https://github.com/jamesvsnowden/bl_asks.git
+[submodule "shape_tree/lib/driver_utils"]
+	path = shape_tree/lib/driver_utils
+	url = https://github.com/jamesvsnowden/bl_driver_utils.git
